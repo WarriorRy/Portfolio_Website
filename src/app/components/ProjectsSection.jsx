@@ -20,8 +20,8 @@ const projectsData = [
     description: "Project 2 description",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/WarriorRy/Portfolio_Website.git",
+    previewUrl: "https://portfolio-website-chi-nine-52.vercel.app/",
   },
   {
     id: 3,
