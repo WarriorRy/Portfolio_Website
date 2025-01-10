@@ -15,6 +15,8 @@ const TAB_DATA = [
         <li>C++</li>
         <li>JavaScript</li>
         <li>React</li>
+        <li>Problem Solving</li>
+        <li>Competitive Programming</li>
       </ul>
     ),
   },
