@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "E-commerce Application",
-    description: "Project 1 description",
+    description: "A dynamic e-commerce platform built with Next.js and MongoDB, featuring a clean white background and intuitive buttons in blue, red, and gray. It supports Google Login with NextAuth for secure user authentication. Users can browse products, upload images to AWS S3, and manage carts efficiently. The responsive design, styled with Tailwind CSS, ensures a great user experience.",
     image: "/images/projects/7.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/WarriorRy/Ecommerce-front.git",
@@ -17,16 +17,16 @@ const projectsData = [
   {
     id: 2,
     title: "Portfolio Website",
-    description: "Project 2 description",
+    description: "A modern and responsive portfolio website showcasing skills, projects, and achievements. Built with Next.js, it features a clean design, smooth navigation, and fast performance. The site highlights expertise in web development, competitive programming, and problem-solving. Interactive elements, styled with Tailwind CSS, enhance the user experience. Currently optimized for showcasing personal and professional growth.",
     image: "/images/projects/2.png",
-    tag: ["All", "Web"],
+    tag: ["All", "Web","Mobile"],
     gitUrl: "https://github.com/WarriorRy/Portfolio_Website.git",
     previewUrl: "https://portfolio-website-chi-nine-52.vercel.app/",
   },
   {
     id: 3,
     title: "Quiz App",
-    description: "Project 3 description",
+    description: "A simple and interactive quiz application built using React.js. It features a clean user interface with smooth navigation and real-time feedback on answers. The app supports multiple-choice questions, tracks scores dynamically, and ensures responsiveness across devices. Designed to provide an engaging and educational user experience.",
     image: "/images/projects/4.png",
     tag: ["All", "Web" , "Mobile"],
     gitUrl: "https://github.com/WarriorRy/QuizApp.git",
